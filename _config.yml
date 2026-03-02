@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: My Website # the website title (if blank, full name will be used instead)
+title: Panos Margaris # the website title (if blank, full name will be used instead)
 first_name: Panos
 last_name: Margaris
 contact_note: >
@@ -53,7 +53,8 @@ external_services:
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
+show_copyright: false
 search_enabled: true
 socials_in_search: true
 posts_in_search: true
