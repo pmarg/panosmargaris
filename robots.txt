@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://pmarg.github.io/panosmargaris//sitemap.xml
+Sitemap: https://panosmargaris.com/sitemap.xml
