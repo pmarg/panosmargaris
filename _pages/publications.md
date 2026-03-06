@@ -15,7 +15,7 @@ nav_order: 2
 
 ## Working Papers
 
-- **Together We Tip the Scale: The Spatial Concentration of Obesity** (with Johanna Wallenius)  
+- **Together We Tip the Scale: Social Norms and Body Mass** (with Johanna Wallenius)  
   [PDF]({{ '/assets/pdf/togetherwetipscale.pdf' | relative_url }})
 - **Obesity and Inequality** (with Patrick Macnamara and Raffaele Rossi)
 - **Is Structural Change Supersizing America?** (with Raffaele Rossi and Akos Valentinyi)
